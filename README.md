@@ -14,12 +14,27 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** with expertise in building modern web and mobile applications. I love creating elegant solutions to complex problems and exploring cutting-edge technologies, especially in AI and full-stack development.
+I am a **Flutter Developer** and **Front-End Developer** with a strong interest in building modern, responsive, and user-centered applications. I am passionate about transforming ideas and designs into high-quality digital products with a strong focus on performance, usability, and clean user interfaces.
 
-- 🔭 Currently working on innovative projects using **Flutter** and **React**
-- 🌱 Constantly learning and experimenting with **AI/ML** technologies
-- 💡 Enthusiastic about building user-centric applications with beautiful UIs
-- 🎯 Focused on writing clean, maintainable, and scalable code
+I have practical experience developing cross-platform mobile applications using **Flutter (Dart)**, as well as building scalable web applications using **React.js** and **Tailwind CSS**. I follow best practices in writing clean, maintainable code and applying proper application architecture.
+
+I continuously seek to improve my technical skills, learn new technologies, and contribute to collaborative development environments.
+
+### 💼 Technical Skills
+- Flutter and Dart
+- React.js
+- Tailwind CSS
+- Responsive and Adaptive UI Design
+- State Management (Provider, MVC concepts)
+- RESTful APIs and Backend Integration
+- Front-End Technologies (HTML, CSS, JavaScript)
+- Git and Version Control
+
+### 🎯 Career Objectives
+
+I am seeking opportunities such as internships, junior positions, or freelance roles where I can apply my skills, contribute to impactful projects, and continue developing as a professional software developer.
+
+I welcome professional connections and collaboration opportunities.
 
 ---
 
