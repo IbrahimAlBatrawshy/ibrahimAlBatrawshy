@@ -82,15 +82,16 @@ Seeking **internship, junior, or freelance opportunities** where I can contribut
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlBatrawshy&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlBatrawshy&theme=tokyonight&hide_border=true" width="90%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlBatrawshy&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlBatrawshy&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlBatrawshy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlBatrawshy&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 
 </div>
 
