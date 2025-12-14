@@ -86,7 +86,7 @@ Seeking **internship, junior, or freelance opportunities** where I can contribut
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlBatrawshy&theme=tokyonight&hide_border=true" width="90%" />
+<img src="https://streak-stats.demolab.com/?user=IbrahimAlBatrawshy&theme=tokyonight&hide_border=true" width="90%" />
 
 <br/><br/>
 
