@@ -86,11 +86,14 @@ Seeking **internship, junior, or freelance opportunities** where I can contribut
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=IbrahimAlBatrawshy&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlBatrawshy&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlBatrawshy&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlBatrawshy&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlBatrawshy&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAlBatrawshy&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
+
 
 ---
 
