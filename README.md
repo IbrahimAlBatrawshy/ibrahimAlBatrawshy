@@ -1,12 +1,14 @@
 <div align="center">
   
-# 👋 Hi, I'm Ibrahim Al Batrawshy
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ibrahim%20Al%20Batrawshy&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling&fontColor=ffffff" />
 
-### 💻 Software Developer | Flutter & Frontend developer
+### 👋 Welcome to my colorful dev space
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimal-batrawshy/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IbrahimAlBatrawshy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboibrahim8654@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Frontend+Developer;I+build+modern+and+responsive+experiences" alt="Typing animation" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimal-batrawshy/)
+[![GitHub](https://img.shields.io/badge/GitHub-833AB4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IbrahimAlBatrawshy)
+[![Email](https://img.shields.io/badge/Email-FF416C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboibrahim8654@gmail.com)
 
 </div>
 
@@ -86,16 +88,16 @@ Seeking **internship, junior, or freelance opportunities** where I can contribut
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=IbrahimAlBatrawshy&theme=tokyonight&hide_border=true" width="90%" />
+<img src="https://streak-stats.demolab.com/?user=IbrahimAlBatrawshy&theme=radical&hide_border=true" width="90%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlBatrawshy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlBatrawshy&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=IbrahimAlBatrawshy&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlBatrawshy&layout=compact&theme=radical&hide_border=true" width="45%" />
 
 </div>
 
 
 ---
 
-⭐️ *Building the future, one commit at a time*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
